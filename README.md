@@ -26,4 +26,4 @@ Bachelorprojekt: React- und Firebase-Anwendung mit Gamification-Elementen zur Tr
 
 ## 📄 Lebenslauf
 
-[Meinen Lebenslauf ansehen](./Paul_Koob_Lebenslauf.pdf)
+[Meinen Lebenslauf ansehen](./Paul_koob_Lebenslauf.pdf)
